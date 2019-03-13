@@ -5,9 +5,9 @@
 ## Introduction
 Git is a version control system. That is software which helps you to (a) keep track of the changes you make and (b) more easily collaborate with other people on a team.
 
-Learning to use version control is very important. Firstly, when you write code, it allows you to keep track of all of the changes you make across all the files in a project. That means it's easy to save your work when it's going well, and to revert to the "last good version" if you mess something up. 
+Learning to use version control is very important. Firstly, when you write code, it allows you to keep track of the changes you make across all the files in a project. That means it's easy to save your work when it's going well, and to revert to the "last good version" if you mess something up. 
 
-Secondly, if you want to collaborate with other people on a project, using version control allows you to work independently in "branches" (different sets of changes) and the to "merge" (bring together) those changes when they're ready.
+Secondly, if you want to collaborate with other people on a project, using version control allows you to work independently in "branches" (different sets of changes) and then to "merge" (bring together) those changes when they're ready.
 
 It's possible to spend days just learning Git. In this course we're just going to focus on the basics so at least you have the right tools and mind set, and you can always improve your Git skills over time.
 
